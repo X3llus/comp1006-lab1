@@ -1,0 +1,24 @@
+/*
+Basic styles for the table
+ */
+body {
+  background-color: rgb(123, 178, 205);
+}
+
+table {
+  width: 50%;
+  margin-left: 25%;
+  margin-right: 25%;
+}
+
+th {
+  font-size: 2em;
+}
+
+td {
+  border: solid 0.5px;
+  border-radius: 10px;
+  text-align: center;
+  padding: 12px;
+  font-weight: bold;
+}
